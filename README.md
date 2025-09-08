@@ -50,15 +50,9 @@ This project is an **Arduino-based desktop cleaner robot** equipped with an **ul
 DESKTOP CLEANER
 Distance: 12 cm
 
-markdown
-Copy code
-
 - **Serial Monitor**  
 Distance: 12 cm
 LOW DISTANCE
-
-yaml
-Copy code
 
 ---
 
